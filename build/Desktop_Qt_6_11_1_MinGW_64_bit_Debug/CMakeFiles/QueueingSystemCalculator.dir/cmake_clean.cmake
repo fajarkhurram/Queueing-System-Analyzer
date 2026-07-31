@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/QueueingSystemCalculator_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/QueueingSystemCalculator_autogen.dir/ParseCache.txt"
+  "QueueingSystemCalculator_autogen"
+  "CMakeFiles/QueueingSystemCalculator.dir/GG1.cpp.obj"
+  "CMakeFiles/QueueingSystemCalculator.dir/GG1.cpp.obj.d"
+  "CMakeFiles/QueueingSystemCalculator.dir/GGS.cpp.obj"
+  "CMakeFiles/QueueingSystemCalculator.dir/GGS.cpp.obj.d"
+  "CMakeFiles/QueueingSystemCalculator.dir/InputValidator.cpp.obj"
+  "CMakeFiles/QueueingSystemCalculator.dir/InputValidator.cpp.obj.d"
+  "CMakeFiles/QueueingSystemCalculator.dir/MG1.cpp.obj"
+  "CMakeFiles/QueueingSystemCalculator.dir/MG1.cpp.obj.d"
+  "CMakeFiles/QueueingSystemCalculator.dir/MGS.cpp.obj"
+  "CMakeFiles/QueueingSystemCalculator.dir/MGS.cpp.obj.d"
+  "CMakeFiles/QueueingSystemCalculator.dir/MM1.cpp.obj"
+  "CMakeFiles/QueueingSystemCalculator.dir/MM1.cpp.obj.d"
+  "CMakeFiles/QueueingSystemCalculator.dir/MMS.cpp.obj"
+  "CMakeFiles/QueueingSystemCalculator.dir/MMS.cpp.obj.d"
+  "CMakeFiles/QueueingSystemCalculator.dir/QueueResult.cpp.obj"
+  "CMakeFiles/QueueingSystemCalculator.dir/QueueResult.cpp.obj.d"
+  "CMakeFiles/QueueingSystemCalculator.dir/QueueVisualizationWidget.cpp.obj"
+  "CMakeFiles/QueueingSystemCalculator.dir/QueueVisualizationWidget.cpp.obj.d"
+  "CMakeFiles/QueueingSystemCalculator.dir/QueueingSystemCalculator_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/QueueingSystemCalculator.dir/QueueingSystemCalculator_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/QueueingSystemCalculator.dir/ServerStatusWidget.cpp.obj"
+  "CMakeFiles/QueueingSystemCalculator.dir/ServerStatusWidget.cpp.obj.d"
+  "CMakeFiles/QueueingSystemCalculator.dir/TimeUnitConverter.cpp.obj"
+  "CMakeFiles/QueueingSystemCalculator.dir/TimeUnitConverter.cpp.obj.d"
+  "CMakeFiles/QueueingSystemCalculator.dir/main.cpp.obj"
+  "CMakeFiles/QueueingSystemCalculator.dir/main.cpp.obj.d"
+  "CMakeFiles/QueueingSystemCalculator.dir/mainwindow.cpp.obj"
+  "CMakeFiles/QueueingSystemCalculator.dir/mainwindow.cpp.obj.d"
+  "QueueingSystemCalculator.exe"
+  "QueueingSystemCalculator.exe.manifest"
+  "QueueingSystemCalculator.pdb"
+  "libQueueingSystemCalculator.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/QueueingSystemCalculator.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
